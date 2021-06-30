@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-30T12:36:27.478436533+03:00"
+    description: Hello
+    digest: 1d4c403a7eac33f581ff72c41164538f335e50bc5ee80fb30735f291cdf48b10
+    name: mychart
+    type: application
+    urls:
+    - mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-30T12:36:27.478103848+03:00"
